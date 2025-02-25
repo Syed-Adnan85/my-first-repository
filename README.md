@@ -1,8 +1,14 @@
-# React + Vite
+# My First GitHub Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple project created to learn and practice Git and GitHub for version control. The project demonstrates repository management, branching, pull requests, issue tracking, and merge conflict resolution.
 
-Currently, two official plugins are available:
+## Features
+- Basic project setup with Git and GitHub
+- Version control using branches
+- Pull requests and merge conflict handling
+- Issue tracking and resolution
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Installation
+1. Clone the repository:
+   ```sh
+   git clone https://github.com/Syed-Adnan85/my-first-repository.git
